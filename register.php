@@ -1,4 +1,3 @@
-```php
 <?php
 $errors = [];
 $username = "";
@@ -53,7 +52,7 @@ $email = "";
 <div class="wrapper fade-in-down">
 <div id="form-content">
 
-<a href="/login.html">
+<a href="/login.php">
 <h2 class="inactive underline-hover">Đăng nhập</h2>
 </a>
 
@@ -62,7 +61,7 @@ $email = "";
 </a>
 
 <div class="fade-in first">
-<img src="./imgs/avatar.png" id="avatar" alt="User Icon">
+<img src="avatar.png" id="avatar" alt="User Icon">
 </div>
 
 <!-- HIỂN THỊ LỖI -->
@@ -122,4 +121,3 @@ value="Đăng ký"
 </div>
 </body>
 </html>
-```
